@@ -100,7 +100,7 @@ A simple yet powerful web application built with **HTML**, **CSS**, and **JavaSc
 
 - HTML5  
 - CSS3  
-- JavaScript (ES6)
+- JavaScript 
 
 ---
 
