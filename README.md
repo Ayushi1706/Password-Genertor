@@ -98,8 +98,8 @@ A simple yet powerful web application built with **HTML**, **CSS**, and **JavaSc
 
 ## 🛠️ Tech Stack
 
-- HTML5  
-- CSS3  
+- HTML 
+- CSS
 - JavaScript 
 
 ---
